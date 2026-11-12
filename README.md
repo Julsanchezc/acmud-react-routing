@@ -5,7 +5,7 @@
 > **Instructor:** Juan Díaz Peña  
 > **Estudiante:** Julián Sánchez (`julsanchezc@unal.edu.co`)  
 > **Clase de Referencia:** Clase 07 — *RoutingEnReact* ([Ver en YouTube](https://youtu.be/r99oTsh_kLI))  
-> **Aclaración Docente:** Tercera asignación oficial del ciclo formativo (*"uno de props, otro de los hooks y el tercero con lo que mandé hoy"*).
+
 
 ---
 
